@@ -1,5 +1,8 @@
 # fofaspider
 
+
+pip install -r requirements.txt
+
 用法：
 python3 1.py -q 'city="Nanyang"'
 批量
